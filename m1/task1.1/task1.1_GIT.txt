@@ -1,0 +1,18 @@
+MacBook-Pro-Igor:DevOps_online_Kyiv_2022Q1Q2 IGOR$ git reflog
+83424d1 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+2c1644c HEAD@{1}: checkout: moving from develop to master
+83424d1 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): merge conflict solved
+28b553a (origin/images, images) HEAD@{3}: merge images: Fast-forward
+c96a1b8 HEAD@{4}: checkout: moving from styles to develop
+ae828dc (origin/styles, styles) HEAD@{5}: commit: styles source link added to index.html
+6632e65 HEAD@{6}: commit: folder with styles added
+c96a1b8 HEAD@{7}: checkout: moving from develop to styles
+c96a1b8 HEAD@{8}: checkout: moving from images to develop
+28b553a (origin/images, images) HEAD@{9}: commit: images source link added to index.html
+d9a43ba HEAD@{10}: commit: folder with images added
+c96a1b8 HEAD@{11}: checkout: moving from develop to images
+c96a1b8 HEAD@{12}: commit: empty index.html added
+2c1644c HEAD@{13}: checkout: moving from master to develop
+2c1644c HEAD@{14}: commit: initial commit
+9d08f44 HEAD@{15}: clone: from https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2.git
+MacBook-Pro-Igor:DevOps_online_Kyiv_2022Q1Q2 IGOR$ 
