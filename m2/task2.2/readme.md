@@ -1,18 +1,18 @@
 # The progress of the home task 2.2 
 
- ## 1
+ ## Part 1
  
 Studied the terms of Using the AWS Free Tier and cost controlling
  
- ## 2
+ ## Part 2
 
 Registered with AWS
  
- ## 3
+ ## Part 3
  
  Explored AWS tutorials and AWS Well-Architected Labs
  
- ## 4
+ ## Part 4
 
 Launched, configured, connected, terminated EC2 instance
 
@@ -38,7 +38,7 @@ Launched, configured, connected, terminated EC2 instance
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/011.png)
 
-## 5
+## Part 5
 Created a snapshot of the EC2 instance to backup
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/012.png)
@@ -47,7 +47,7 @@ Created a snapshot of the EC2 instance to backup
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/014.png)
 
-## 6
+## Part 6
 Created and attached an additional disk (EBS) to the EC2 instance
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/015.png)
@@ -66,7 +66,7 @@ Connected to the EC2 instance, mounted the new disk and created a file 'test_emp
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/021.png)
 
-## 7
+## Part 7
 
 Created AMI from the previously made backup and launched another EC2 instance from it
 
@@ -80,7 +80,7 @@ Created AMI from the previously made backup and launched another EC2 instance fr
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/026.png)
 
-## 8
+## Part 8
 
 Detached new disk from the 1st instance and attached it to the new one
 
@@ -92,11 +92,11 @@ Detached new disk from the 1st instance and attached it to the new one
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/030.png)
 
-## 9
+## Part 9
 
-Explored domain name registration procedure via Amazon Route 53 and noted that the service is not free, thus eventually decided to register a new domain name in pp.ua zone
+Explored domain name registration procedure via Amazon Route 53 and noted that the service is not free, thus eventually decided to register a new domain name in pp.ua zone to use it at step 15
 
-## 10
+## Part 10
 
 Launched and configured a WordPress instance with Amazon Lightsail
 
@@ -110,7 +110,7 @@ Launched and configured a WordPress instance with Amazon Lightsail
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/035.png)
 
-## 11
+## Part 11
 
 Explored 'Store and Retrieve a File with Amazon S3' tutorial, created S3-bucket repository
 
@@ -122,7 +122,7 @@ Explored 'Store and Retrieve a File with Amazon S3' tutorial, created S3-bucket 
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/039.png)
 
-## 12
+## Part 12
 
 Explored 'Batch upload files to the cloud to Amazon S3 using the AWS CLI' tutorial, created an AWS IAM User, configured CLI AWS and uploaded/downloaded a file to S3 bucket
 
@@ -136,7 +136,7 @@ Explored 'Batch upload files to the cloud to Amazon S3 using the AWS CLI' tutori
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/044.png)
 
-## 13
+## Part 13
 
 Explored how to deploy Docker containers with 'Docker basics for Amazon ECS' tutorial. Repeated, created a cluster, and ran the online demo application
 
@@ -164,7 +164,7 @@ Explored how to deploy Docker containers with 'Docker basics for Amazon ECS' tut
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/056.png)
 
-## 14
+## Part 14
 
 Ran a Serverless "Hello, World!" with AWS Lambda
 
@@ -184,6 +184,6 @@ Ran a Serverless "Hello, World!" with AWS Lambda
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/064.png)
 
-## 15
+## Part 15
 
-Create a static website http://devops22.pp.ua on Amazon S3 using the domain name created at step 9 where posted my photo and also the list of AWS services with which worked during the educational program and the full list with links of completed labs based on tutorials or qwiklabs
+Created a static website http://devops22.pp.ua on Amazon S3 using the domain name created at step 9 where posted my photo and also the list of AWS services with which worked during the educational program and the full list with links of completed labs based on tutorials or qwiklabs
