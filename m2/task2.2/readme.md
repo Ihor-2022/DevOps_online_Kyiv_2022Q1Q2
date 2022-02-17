@@ -1,12 +1,19 @@
 # The progress of the home task 2.2 
 
  ## 1
+ 
 Studied the terms of Using the AWS Free Tier and cost controlling
+ 
  ## 2
+
 Registered with AWS
+ 
  ## 3
+ 
  Explored AWS tutorials and AWS Well-Architected Labs
+ 
  ## 4
+
 Launched, configured, connected, terminated EC2 instance
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m2/task2.2/001.png)
@@ -179,4 +186,4 @@ Ran a Serverless "Hello, World!" with AWS Lambda
 
 ## 15
 
-Create a static website [Link text Here](devops22.pp.ua) on Amazon S3 using the domain name created at step 9 where posted my photo and also the list of AWS services with which worked during the educational program and the full list with links of completed labs based on tutorials or qwiklabs
+Create a static website http://devops22.pp.ua on Amazon S3 using the domain name created at step 9 where posted my photo and also the list of AWS services with which worked during the educational program and the full list with links of completed labs based on tutorials or qwiklabs
