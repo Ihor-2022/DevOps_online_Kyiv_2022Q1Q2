@@ -45,6 +45,6 @@ Captured some traffic by Wireshark while downloading a 80-MB file, then switched
 Found a TCP-segment in the captured flow. In this segment found and highlighted headers of data link layer, network layer and transport layer
 And from those headers identified MAC-addresses, IPs and ports of source and destination respectively as it shown below
 
-![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.1/009.png)
+![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.1/009.JPEG)
 
 And PKT-file is also attached to the repository
