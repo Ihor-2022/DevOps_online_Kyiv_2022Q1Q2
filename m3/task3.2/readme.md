@@ -8,7 +8,7 @@ The detailed description of statically assigned IPs, interfaces and ports connec
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.2/001.png)
 
  ## 2
-Defined a closest router's port as Default Gateway on for all computers (Home Router is Defaut Gateway for Client 3).
+Defined a closest router's port as Default Gateway for all computers (Home Router is Defaut Gateway for Client 3).
 Checked connection between computers and their routers. 
 Ping from Client 2 to Router ISP1 runs OK
 
