@@ -1,7 +1,7 @@
 # The progress of the home task 3.1
 
  ## 1
-Following to the home task guide I created networks: Home Office, Enterprise, Data Center as shown below
+Following to the home task guide I've created networks: Home Office, Enterprise, Data Center as shown below
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.1/001.png)
 
