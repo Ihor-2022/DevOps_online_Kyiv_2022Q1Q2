@@ -65,4 +65,6 @@ Assigned .1 and .65 and .129 as Default Gateways for Web Server1, Web Server2 an
  ## 8
 Checked workability and ping from Web Server2 ran OK
 
+![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.2/012.png)
+
 ### And PKT-file is also attached to the repository
