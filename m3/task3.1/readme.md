@@ -41,8 +41,8 @@ Ping from Client 3 to Home Router runs OK
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.1/008.png)
 
 ## 9 Extra work
-Captured some traffic by Wireshark while downloading a 80-MB file, then switched to analisys mode
-Found a TCP-segment in the captured flow. In this segment found and highlighted headers of data link layer, network layer and transport layer
+Captured some traffic by Wireshark while downloading a 80-MB file, then switched to analisys mode.
+Found a TCP-segment in the captured flow. In this segment found and highlighted headers of data link layer, network layer and transport layer.
 And from those headers identified MAC-addresses, IPs and ports of source and destination respectively as it shown below
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.1/009.jpg)
