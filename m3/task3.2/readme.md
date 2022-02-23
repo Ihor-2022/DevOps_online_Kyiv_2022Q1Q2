@@ -24,7 +24,7 @@ Ping from Client 3 to Router ISP2 runs OK
 
  ## VLAN at Data Center setup
  ## 3
-Checked connectionn between servers and pings run OK
+Checked connectionn between servers and pings ran OK
 Then switched subnet mask to 255.255.255.192 on them and ping failed as shown below
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.2/005.png)
