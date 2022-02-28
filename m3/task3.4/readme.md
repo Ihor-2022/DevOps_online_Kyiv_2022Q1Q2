@@ -45,7 +45,7 @@ Checked performance via sending pings from Clients to domain names as shown belo
  ## Extra work. Adjustment of Port forwarding on the Home Router
 
  ## 8
-Added a Home Server to the Home Office subnetwork and assigned a static IP address for it, then modified index.html at the HTTP service tab as follows
+Added a Home Server to the Home Office subnetwork and assigned a static IP address for it, then modified 'index.html' at the HTTP service tab as follows
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.4/011.png)
 
