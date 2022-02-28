@@ -4,7 +4,7 @@
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.4/001.png)
 
  ## 1
-Adjusted DHCP Server inside the Enterprise subnetwork as follows: entered DHCP tab and tuned up the DHCP Pool by assigning the start IP address as 10.71.14.10 and the Default Gateway address as the adjacent interface of the ISP1 router. Switched DHCP service on and saves as shown below
+Adjusted DHCP Server inside the Enterprise subnetwork as follows: entered DHCP tab and tuned up the DHCP Pool by assigning the start IP address as 10.71.14.10 and the Default Gateway address as the adjacent interface of the ISP1 router. Switched DHCP service on and saved as shown below
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m3/task3.4/002.png)
 
