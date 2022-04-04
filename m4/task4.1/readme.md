@@ -91,11 +91,11 @@ Became familiar with the various options for the ls command. Below are some exam
 
  ## 5 
 Performed the following sequence of operations:
--created a subdirectory in the home directory;
--in this subdirectory created a file containing information about directories located in the root directory (using I/O redirection operations);
--viewed the created file;
--copied the created file to the home directory;
--deleted the previously created subdirectory with the file requesting removal;
+- created a subdirectory in the home directory;
+- in this subdirectory created a file containing information about directories located in the root directory (using I/O redirection operations);
+- viewed the created file;
+- copied the created file to the home directory;
+- deleted the previously created subdirectory with the file requesting removal;
 - deleted the file copied to the home directory.
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.1/023.png)
