@@ -161,6 +161,6 @@ Along with ordinary files and directories, files from the point of view of Linux
 - character files (ls -l | grep ^c)
 
  ## 15
-Listed the first 5 directory files that were recently accessed in the /etc directory
+And listed the first 5 directory files that were recently accessed in the /etc directory
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.1/033.png)
