@@ -42,7 +42,7 @@ Belonging of a user to the specific group can be defined either via id command o
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/008.png)
 
  ## 5
-A new user can be added to the system via commands useradd (a low-level Linux command) and adduser
+A new user can be added to the system via commands useradd (a low-level Linux command) and adduser.
 Adduser works interactivly as a high-level utility guiding through a user-creating procedure
 A pure useradd command just creates a new user where a password needs to be created after via command passwd
 To achieve the same result via useradd as via adduser the following code should be run: 
