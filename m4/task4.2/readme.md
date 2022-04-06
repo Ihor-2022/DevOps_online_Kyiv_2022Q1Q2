@@ -117,7 +117,8 @@ command passwd -d user_name cancels the password for the user and allows him to 
 
  ## 11
 Display the extended format of information about the directory, tell about the information columns displayed on the terminal.
-Command ls -ld lists details about a directory and not its contents.
+
+Answer: Command ls -ld lists details about a directory and not its contents.
 Columns display: permissions for the directory, quantity of files including hidden, the owner and group of the directory, dimension of the directory, date and time of its creation.
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/018.png)
