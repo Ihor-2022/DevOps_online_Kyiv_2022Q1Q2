@@ -32,12 +32,12 @@ UIDs can be defined by commands id (for the user now logged in), id user_name (f
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/006.png)
 
  ## 3
- Groups in Linux are defined by GIDs (group IDs). Just like with UIDs, the first 100 GIDs are usually reserved for system use. The GID of 0 corresponds to the root group and the GID of 100 usually represents the users group. GIDs are stored in the /etc/group file but also can be retrieved from /etc/passwd file as described above
+Groups in Linux are defined by GIDs (group IDs). Just like with UIDs, the first 100 GIDs are usually reserved for system use. The GID of 0 corresponds to the root group and the GID of 100 usually represents the users group. GIDs are stored in the /etc/group file but also can be retrieved from /etc/passwd file as described above
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/007.png)
 
  ## 4
-Belonging of a user to the specific group can be defined via id command or by exploring /etc/group file (also via /etc/passwd file)
+Belonging of a user to the specific group can be defined either via id command or by exploring /etc/group file (also via /etc/passwd file)
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/008.png)
 
@@ -53,6 +53,7 @@ sudo useradd -d /home/test_5 -m -s/bin/bash \
 
  ## 6
 How do I change the name (account name) of an existing user?
+Answer:
 Firstly you have to make it certain to exit from the account you are going to rename
 Then rename via usermod -l new_username old_username
 
@@ -64,6 +65,7 @@ Note that nothing else is changed, particularly the user's home directory name
 
  ## 7
 What is skel_dir? What is its structure?
+Answer:
 Skel is derived from the "skeleton" because it contains basic structure of home directory. The /etc/skel directory contains files and directories that are automatically copied over to a new user when it is created from useradd command. This ensures that all the users get the same intial settings and environment
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/012.png)
@@ -77,7 +79,8 @@ The existing deault settings can be reviewed via /usr/sbin/useradd -D or cat /et
 
  ## 8 
 How to remove a user from the system (including his mailbox)?
-Answer: either via deluser user_name --remove-home or via userdel -r user_name
+Answer: 
+either via deluser user_name --remove-home or via userdel -r user_name
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/014.png)
 
@@ -102,12 +105,13 @@ chage -E -1 username (removes expiry date for the password)
 
  ## 10
 How to remove a user's password and provide him with a password-free login for subsequent password change?
-Answer: command passwd -d user_name cancels the password for the user and allows him to log in without a password and change it himself
+Answer: 
+command passwd -d user_name cancels the password for the user and allows him to log in without a password and change it himself
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.2/017.png)
 
  ## 11
-Display the extended format of information about the directory, tell about the information columns displayed on the terminal.
+Display the extended format of information about the directory, tell about the information columns displayed on the terminal
 Command ls -ld lists details about a directory and not its contents
 Columns display: permissions for the directory, quantity of files including hidden, the owner and group of the directory, dimension of the directory, date and time of its creation
 
