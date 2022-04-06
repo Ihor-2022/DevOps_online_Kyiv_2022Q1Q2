@@ -125,6 +125,8 @@ Columns display: permissions for the directory, quantity of files including hidd
 
  ## 12
 What access rights exist and for whom (i. e., describe the main roles)? Briefly describe the acronym for access rights.
+
+Answer:
 Access rights exist for U (the first triplet for the owner of the file), G (the second triplet for the group) and O (the third triplet for the other or outsider).
 There can be a full set or a partial set of the following rights in each triplet: r (read), w (write) and x (execute) where "x" for the directory permits to enter to it.
 
