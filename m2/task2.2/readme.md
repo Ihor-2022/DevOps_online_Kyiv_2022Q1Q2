@@ -186,4 +186,4 @@ Ran a Serverless "Hello, World!" with AWS Lambda
 
 ## Part 15
 
-Created a static website http://devops22.pp.ua on Amazon S3 using the domain name created at step 9 where posted my photo and also the list of AWS services with which worked during the educational program and the full list with links of completed labs based on tutorials or qwiklabs
+Created a static website http://www.devops22.pp.ua on Amazon S3 using the domain name created at step 9 where posted my photo and also the list of AWS services with which worked during the educational program and the full list with links of completed labs based on tutorials or qwiklabs
