@@ -111,12 +111,12 @@ Those interactive commands are r (renice) and k (kill)
 Sort the contents of the processes window using various parameters (for example, the amount of processor time taken up, etc.)
 
 Answer:
-- <Shift>+<N> sort by PID
-- <Shift>+<P> sort by CPU usage
-- <Shift>+<M> sort by Memory usage
-- <Shift>+<T> sort by Time usage
-- <Shift>+<Z> change colors
-- <c> display absolute path of command
+- "<Shift>+<N>" sort by PID
+- "<Shift>+<P>" sort by CPU usage
+- "<Shift>+<M>" sort by Memory usage
+- "<Shift>+<T>" sort by Time usage
+- "<Shift>+<Z>" change colors
+- "<c>" displays absolute path of command
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m4/task4.3/022.png)
 
