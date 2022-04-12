@@ -122,6 +122,7 @@ Answer:
 
  ## 14
 Concept of priority, what commands are used to set priority?
+
 Answer:
 Some processes may be highly CPU-intensive but not as important as others and hence can have a lower priority while others may or may not be highly CPU-intensive but are very important and hence should have higher priority.
 For example if there is a process A, which detects fraud with input data and there is another process B, which makes hourly backups of some data, then the priority(A) > priority(B)!
