@@ -25,7 +25,7 @@ All the interfaces on the Server_1 are set up as static
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/006.png)
 
  ## 3
-The DHCP service on the Server_1 to assign IPs for the Client_1 and Client_2 is set up as shown below
+The DHCP service on the Server_1 which assigns IPs to the Client_1 and Client_2 is set up as shown below
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/007.png)
 
