@@ -71,7 +71,9 @@ while packets from the Client_2 would go to 172.17.34.1 via Net4
 Now we calculate a summarizing route for addresses 172.17.24.1 and 172.17.34.1
 
 172.17.24.1 in binary representation is equal to 10101100.00010001.00011000.00000001
+
 172.17.34.1 in binary representation is equal to 10101100.00010001.00100010.00000001
+
 The first 18 bits are equal which gives netmask  11111111.11111111.11000000.00000000 i.e. 255.255.192.0 i.e. prefix 18
 Now we delete all routing rules that were set up on the previous step and set up a new routing rule which establishs a common (summarized) route that passes via Server_1
 
