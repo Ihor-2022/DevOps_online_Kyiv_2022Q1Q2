@@ -80,7 +80,7 @@ Now we delete all routing rules that were set up on the previous step and set up
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/019.png)
 
-Testing connectivity
+Testing connectivity with ping and traceroute
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/020.png)
 
