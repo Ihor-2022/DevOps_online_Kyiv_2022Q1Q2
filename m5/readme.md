@@ -128,7 +128,9 @@ Now we set up firewall on Server_1 so that SSH connection is allowed from Client
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/034.png)
 
 And now we set up the firewal so that it passes ping from Client_2 to 172.17.24.1 while dropping ping from the same host to 172.17.34.1
-For that purpose we add a restrictive rule to IP tables.
+
+For that purpose we add a restrictive rule to IP tables
+
 Pings before the rule is added
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/035.png)
