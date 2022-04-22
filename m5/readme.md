@@ -74,7 +74,8 @@ Now we calculate a summarizing route for addresses 172.17.24.1 and 172.17.34.1
 
 172.17.34.1 in binary representation is equal to 10101100.00010001.00100010.00000001
 
-The first 18 bits are equal which gives netmask  11111111.11111111.11000000.00000000 i.e. 255.255.192.0 i.e. prefix 18
+The first 18 bits are equal which gives netmask  11111111.11111111.11000000.00000000 i.e. 255.255.192.0 i.e. prefix 18.
+
 Now we delete all routing rules that were set up on the previous step and set up a new routing rule which establishs a common (summarized) route that passes via Server_1
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m5/019.png)
