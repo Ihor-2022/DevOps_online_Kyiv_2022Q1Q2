@@ -160,7 +160,7 @@ Installing MongoDB and creating a database
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/041.png)
 
  ## 17 
-Creating collections. Use db.createCollection to create a collection. Running show dbs and show collections to view the database and the collections
+Creating collections. Running show dbs and show collections to view the database and the collections
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/042.png)
 
