@@ -1,6 +1,7 @@
  # The progress of the home task 7
 
-    ## Part 1
+   ## Part 1
+ 
  ## 1
 Downloaded and installed mysql server on the VM shown below
 
@@ -92,7 +93,7 @@ Making a selection from the main table DB MySQL
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/023.png)
 
-    ## Part 2
+   ## Part 2
 
  ## 9
 Making a backup of the database
@@ -148,7 +149,7 @@ Verifying the dump
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/038.png)
 
-    ## Part 3 - MongoDB
+   ## Part 3 - MongoDB
 
  ## 16
 Installing MongoDB and reating a database
