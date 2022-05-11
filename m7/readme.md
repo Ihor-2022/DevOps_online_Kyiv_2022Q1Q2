@@ -153,7 +153,7 @@ Verifying the dump
    ## Part 3 - MongoDB
 
  ## 16
-Installing MongoDB and reating a database
+Installing MongoDB and creating a database
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/039.png)
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/040.png)
