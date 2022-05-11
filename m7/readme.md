@@ -2,7 +2,7 @@
 
     ## Part 1
  ## 1
-Downloaded and installed mysql server on the VM shown below
+Downloaded and installed mysql server on the VM as shown below
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/001.png)
 
