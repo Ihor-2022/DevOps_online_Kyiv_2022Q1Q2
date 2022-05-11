@@ -124,7 +124,8 @@ For that purpose we create a new RDS instance named forum
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/031.png)
 
-Now transferring the database from the local to forum at RDS using mysql --host=forum.cvqprgagaakv.eu-central-1.rds.amazonaws.com --port=3306 --user=root --password=SDrtye56GHRT forum < backup_forum.sql
+Now transferring the database from the local to forum at RDS using  
+mysql --host=forum.cvqprgagaakv.eu-central-1.rds.amazonaws.com --port=3306 --user=root --password=SDrtye56GHRT forum < backup_forum.sql
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/032.png)
 
@@ -141,7 +142,8 @@ Performing SELECT operator with WHERE, GROUP BY and ORDER BY on the RDS instance
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/036.png)
 
  ## 15
-Creating the dump of the RDS database into the local machine via mysql --host=forum.cvqprgagaakv.eu-central-1.rds.amazonaws.com --port=3306 --user=root --password=SDrtye56GHRT > dump.sql
+Creating the dump of the RDS database into the local machine via  
+mysql --host=forum.cvqprgagaakv.eu-central-1.rds.amazonaws.com --port=3306 --user=root --password=SDrtye56GHRT > dump.sql
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/037.png)
 
