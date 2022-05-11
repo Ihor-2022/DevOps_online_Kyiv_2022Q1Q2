@@ -18,13 +18,13 @@ On the top of it there will be an auxilary table aux_tag which is used to create
 
 Database FORUM
 
-create table post (     						    create table comment (     
-    id int (11) PRIMARY KEY AUTO_INCREMENT,		        id int (11) PRIMARY KEY AUTO_INCREMENT,
-    title varchar (40),    		  				        aux_id int (11) NOT NULL,  
-    content varchar (255) NOT NULL,          		    content varchar (255) NOT NULL,                
-    status int (11) NOT NULL, 		  			        author varchar (128) NOT NULL,   
-    date_created datetime NOT NULL		  		        date_created datetime NOT NULL 
-);									                    );
+create table post (     						                        create table comment (     
+    id int (11) PRIMARY KEY AUTO_INCREMENT,		             id int (11) PRIMARY KEY AUTO_INCREMENT,
+    title varchar (40),    		  				                       aux_id int (11) NOT NULL,  
+    content varchar (255) NOT NULL,          		           content varchar (255) NOT NULL,                
+    status int (11) NOT NULL, 		  			                     author varchar (128) NOT NULL,   
+    date_created datetime NOT NULL		  		                  date_created datetime NOT NULL 
+);									                                           );
 
 
 create table tag (     						        create table aux_tag (     
