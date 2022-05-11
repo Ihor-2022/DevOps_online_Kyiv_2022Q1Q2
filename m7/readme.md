@@ -124,13 +124,12 @@ For that purpose we create a new RDS instance named forum
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/031.png)
 
-Now transferring the database from the local to forum at RDS using  
-mysql --host=forum.cvqprgagaakv.eu-central-1.rds.amazonaws.com --port=3306 --user=root --password=SDrtye56GHRT forum < backup_forum.sql
-
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/032.png)
 
  ## 13
-Now connecting to the RDS database and briefly verifying its integrity
+Now transferring the database from the local to forum at RDS using  
+mysql --host=forum.cvqprgagaakv.eu-central-1.rds.amazonaws.com --port=3306 --user=root --password=SDrtye56GHRT forum < backup_forum.sql  
+Then connecting to the RDS database and briefly verifying its integrity
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/033.png)
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/034.png)
