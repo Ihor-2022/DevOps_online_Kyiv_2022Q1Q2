@@ -41,23 +41,23 @@ INSERT INTO post (title, content, status, date_created) VALUES (
    'Pls have a look at the new book "Using MySQL". It gives a lot of useful examples of MySQL use in prod.',  
     2, '2022-05-07 18:49');
 
-INSERT INTO post (title, content, status, date_created) VALUES (
-   'Basics with MongoDB - Book',
-   'If fact, I needed some resource to start learning MongoDB for one of my web projects. I’ve found it recently.', 
-   2, '2022-05-08 18:51');
+INSERT INTO post (title, content, status, date_created) VALUES (  
+   'Basics with MongoDB - Book',  
+   'If fact, I needed some resource to start learning MongoDB for one of my web projects. I’ve found it recently.',  
+    2, '2022-05-08 18:51');
 
-INSERT INTO post (title, content, status, date_created) VALUES (
-   'RDS - Making a Prof database',
-   'RDS is solution allowing to make your database professionally, even if you don''t have advanced programming skills.', 
-   2, '2022-05-09 13:01');
+INSERT INTO post (title, content, status, date_created) VALUES (  
+   'RDS - Making a Prof database',  
+    'RDS is solution allowing to make your database professionally, even if you don''t have advanced programming skills.',  
+     2, '2022-05-09 13:01');
 
-INSERT INTO aux_tag (aux_id, tag_id) VALUES (1, 1);
-INSERT INTO aux_tag (aux_id, tag_id) VALUES (1, 2);
-INSERT INTO aux_tag (aux_id, tag_id) VALUES (2, 2);
-INSERT INTO aux_tag (aux_id, tag_id) VALUES (2, 3);
-INSERT INTO aux_tag (aux_id, tag_id) VALUES (3, 4);
+INSERT INTO aux_tag (aux_id, tag_id) VALUES (1, 1);  
+INSERT INTO aux_tag (aux_id, tag_id) VALUES (1, 2);  
+INSERT INTO aux_tag (aux_id, tag_id) VALUES (2, 2);  
+INSERT INTO aux_tag (aux_id, tag_id) VALUES (2, 3);  
+INSERT INTO aux_tag (aux_id, tag_id) VALUES (3, 4); 
 
-INSERT INTO comment (aux_id, content, author, date_created) VALUES (
+INSERT INTO comment (aux_id, content, author, date_created) VALUES (  
     1, 'Good post!', 'Petro Prikhodko', '2022-05-09 20:20');
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/011.png)
