@@ -31,15 +31,15 @@ On the top of it there will be an auxilary table aux_tag which is used to create
   ## 4
 Now filling tables
 
-INSERT INTO tag (name) VALUES ('MSQL');
-INSERT INTO tag (name) VALUES ('book');
-INSERT INTO tag (name) VALUES ('mongo');
+INSERT INTO tag (name) VALUES ('MSQL');  
+INSERT INTO tag (name) VALUES ('book');  
+INSERT INTO tag (name) VALUES ('mongo');  
 INSERT INTO tag (name) VALUES ('RDS');
 
-INSERT INTO post (title, content, status, date_created) VALUES (
-   'A Book about MySQL',
-   'Pls have a look at the new book "Using MySQL". It gives a lot of useful examples of MySQL use in prod.', 
-   2, '2022-05-07 18:49');
+INSERT INTO post (title, content, status, date_created) VALUES (  
+   'A Book about MySQL',  
+   'Pls have a look at the new book "Using MySQL". It gives a lot of useful examples of MySQL use in prod.',  
+    2, '2022-05-07 18:49');
 
 INSERT INTO post (title, content, status, date_created) VALUES (
    'Basics with MongoDB - Book',
