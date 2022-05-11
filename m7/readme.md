@@ -117,7 +117,7 @@ Verifying
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/029.png)
 
  ## 12
-Transferring the local database to RDS AWS
+Transferring the local database to RDS AWS  
 For that purpose we create a new RDS instance named forum
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m7/030.png)
