@@ -3,7 +3,7 @@
  ## 1
 Writing an easy program, which displays current date and time
 
-### The code: 
+#### The code: 
 ```python
    from datetime import datetime
 
