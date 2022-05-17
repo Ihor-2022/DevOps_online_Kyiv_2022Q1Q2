@@ -238,6 +238,6 @@ Total write: 41.64GB
 Process finished with exit code 0
 
 
-## And also six py files are attached to the repository 
+## And also six py files with three auxiliary files are attached to the repository 
 
 # Thank you!
