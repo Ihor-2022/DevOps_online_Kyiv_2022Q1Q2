@@ -90,7 +90,7 @@ I was standing smiling but a bit disappointed while John approached to me with h
 
 The output:
 
-I was standing 🙂 but a bit 😞 while John approached to me with his 😀 face making me fearful. But eventually I noticed he had forgotten his gun. It made my 🥳 and I burst out 🤣 loudly.
+I was standing 🙂 but a bit 😞 while John approached to me with his 😀 face making me fearful. But eventually I noticed he had forgotten his gun. It made me 🥳 and I burst out 🤣 loudly.
 
  ## 6
 Writing a program, that shows basic PC information
