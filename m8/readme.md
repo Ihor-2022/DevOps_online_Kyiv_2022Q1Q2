@@ -172,67 +172,68 @@ print(f"Total write: {get_size(disk_io.write_bytes)}")
 
 The output:
 
-/usr/local/bin/python3 /Users/IGOR/PycharmProjects/EPAM/demo.py
-======================================== System Information ========================================
-System: Darwin
-Node Name: MacBook-Pro-Igor.local
-Release: 20.6.0
-Version: Darwin Kernel Version 20.6.0: Tue Feb 22 21:10:41 PST 2022; root:xnu-7195.141.26~1/RELEASE_X86_64
-Machine: x86_64
-Processor: i386
-======================================== Boot Time ========================================
-Boot Time: 2022/5/15 12:8:0
-======================================== CPU Info ========================================
-Physical cores: 2
-Total cores: 4
-Max Frequency: 3000.00Mhz
-Min Frequency: 3000.00Mhz
-Current Frequency: 3000.00Mhz
-CPU Usage Per Core:
-Core 0: 25.7%
-Core 1: 11.0%
-Core 2: 37.6%
-Core 3: 9.9%
-Total CPU Usage: 21.8%
-======================================== Disk Information ========================================
-Partitions and Usage:
-=== Device: /dev/disk1s5s1 ===
-  Mountpoint: /
-  File system type: apfs
-  Total Size: 465.72GB
-  Used: 14.27GB
-  Free: 170.94GB
-  Percentage: 7.7%
-=== Device: /dev/disk1s4 ===
-  Mountpoint: /System/Volumes/VM
-  File system type: apfs
-  Total Size: 465.72GB
-  Used: 3.00GB
-  Free: 170.94GB
-  Percentage: 1.7%
-=== Device: /dev/disk1s2 ===
-  Mountpoint: /System/Volumes/Preboot
-  File system type: apfs
-  Total Size: 465.72GB
-  Used: 661.33MB
-  Free: 170.94GB
-  Percentage: 0.4%
-=== Device: /dev/disk1s6 ===
-  Mountpoint: /System/Volumes/Update
-  File system type: apfs
-  Total Size: 465.72GB
-  Used: 18.17MB
-  Free: 170.94GB
-  Percentage: 0.0%
-=== Device: /dev/disk1s1 ===
-  Mountpoint: /System/Volumes/Data
-  File system type: apfs
-  Total Size: 465.72GB
-  Used: 276.12GB
-  Free: 170.94GB
-  Percentage: 61.8%
-Total read: 57.95GB
-Total write: 41.64GB
+/usr/local/bin/python3 /Users/IGOR/PycharmProjects/EPAM/demo.py  
+
+======================================== System Information ========================================  
+System: Darwin  
+Node Name: MacBook-Pro-Igor.local  
+Release: 20.6.0  
+Version: Darwin Kernel Version 20.6.0: Tue Feb 22 21:10:41 PST 2022; root:xnu-7195.141.26~1/RELEASE_X86_64  
+Machine: x86_64  
+Processor: i386  
+======================================== Boot Time ========================================  
+Boot Time: 2022/5/15 12:8:0  
+======================================== CPU Info ========================================  
+Physical cores: 2  
+Total cores: 4  
+Max Frequency: 3000.00Mhz  
+Min Frequency: 3000.00Mhz  
+Current Frequency: 3000.00Mhz  
+CPU Usage Per Core:  
+Core 0: 25.7%  
+Core 1: 11.0%  
+Core 2: 37.6%  
+Core 3: 9.9%  
+Total CPU Usage: 21.8%  
+======================================== Disk Information ========================================  
+Partitions and Usage:  
+=== Device: /dev/disk1s5s1 ===  
+  Mountpoint: /  
+  File system type: apfs  
+  Total Size: 465.72GB  
+  Used: 14.27GB  
+  Free: 170.94GB  
+  Percentage: 7.7%  
+=== Device: /dev/disk1s4 ===  
+  Mountpoint: /System/Volumes/VM  
+  File system type: apfs  
+  Total Size: 465.72GB  
+  Used: 3.00GB  
+  Free: 170.94GB  
+  Percentage: 1.7%  
+=== Device: /dev/disk1s2 ===  
+  Mountpoint: /System/Volumes/Preboot  
+  File system type: apfs  
+  Total Size: 465.72GB  
+  Used: 661.33MB  
+  Free: 170.94GB  
+  Percentage: 0.4%  
+=== Device: /dev/disk1s6 ===  
+  Mountpoint: /System/Volumes/Update  
+  File system type: apfs  
+  Total Size: 465.72GB  
+  Used: 18.17MB  
+  Free: 170.94GB  
+  Percentage: 0.0%  
+=== Device: /dev/disk1s1 ===  
+  Mountpoint: /System/Volumes/Data  
+  File system type: apfs  
+  Total Size: 465.72GB  
+  Used: 276.12GB  
+  Free: 170.94GB  
+  Percentage: 61.8%  
+Total read: 57.95GB  
+Total write: 41.64GB  
 
 Process finished with exit code 0
 
