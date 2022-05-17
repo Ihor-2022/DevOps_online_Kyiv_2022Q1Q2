@@ -10,14 +10,14 @@ Writing an easy program, which displays current date and time
    print("Today is", (datetime.now().strftime("%d/%m/%Y")))
    print("Current time is", (datetime.now().strftime("%H:%M:%S")))
 ```
-The output:
+#### The output:
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/001.png)
 
  ## 2
 Writing a python program, which accepts comma-separated numbers, and then writes tuple and list of them
 
-The code:
+#### The code:
 ```python
 numbers = input("Please enter some comma-separated numbers here: ")
 list = numbers.split(",")
@@ -25,7 +25,7 @@ tuple = tuple(list)
 print("List: ",list)
 print("Tuple: ",tuple)
 ```
-The output:
+#### The output:
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/002.png)
 
@@ -45,14 +45,14 @@ else:
     pass
 f.close()
 ```
-The output:
+#### The output:
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/003.png)
 
  ## 4
 Writing python program, which reads html document, parses it, and shows it’s title
 
-The code:
+#### The code:
 ```python
 from bs4 import BeautifulSoup
 with open(input("Please enter here name of the file to parse: ")) as obj:
@@ -60,14 +60,14 @@ with open(input("Please enter here name of the file to parse: ")) as obj:
     print("TITLE is: ", (data.title.text))
 obj.close()
 ```
-The output:
+#### The output:
 
 ![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/004.png)
 
  ## 5
 Writing python program, which parses user’s text and replaces some emotions with emoji’s
 
-The code:
+#### The code:
 ```python
 text = input("Pls input your text with emotions: ")
 words = text.split(" ")
@@ -84,18 +84,18 @@ for word in words:
    output += emojis.get(word, word) + " "
 print(output)
 ```
-Text for the input:  
+#### Text for the input:  
 
 I was standing smiling but a bit disappointed while John approached to me with his grinning face making me fearful. But eventually I noticed he had forgotten his gun. It made me happy and I burst out laughing loudly.
 
-The output:
+#### The output:
 
 I was standing 🙂 but a bit 😞 while John approached to me with his 😀 face making me fearful. But eventually I noticed he had forgotten his gun. It made me 🥳 and I burst out 🤣 loudly.
 
  ## 6
 Writing a program, that shows basic PC information
 
-The code:
+#### The code:
 ```python
 import psutil
 import platform
@@ -170,7 +170,7 @@ print(f"Total read: {get_size(disk_io.read_bytes)}")
 print(f"Total write: {get_size(disk_io.write_bytes)}")
 ```
 
-The output:
+#### The output:
 
 /usr/local/bin/python3 /Users/IGOR/PycharmProjects/EPAM/demo.py  
 
