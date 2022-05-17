@@ -4,7 +4,7 @@
 Writing an easy program, which displays current date and time
 
 The code: 
-```
+```python
    from datetime import datetime
 
    print("Today is", (datetime.now().strftime("%d/%m/%Y")))
