@@ -47,7 +47,7 @@ f.close()
 ```
 The output:
 
-![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/002.png)
+![This is an image](https://github.com/Ihor-2022/DevOps_online_Kyiv_2022Q1Q2/blob/master/m8/003.png)
 
  ## 4
- 
+
