@@ -86,7 +86,7 @@ print(output)
 ```
 Text for the input:  
 
-I was standing smiling but a bit disappointed while John approached to me with his grinning face making me fearful. But eventually I noticed he had forgotten his gun. It made my happy and I burst out laughing loudly.
+I was standing smiling but a bit disappointed while John approached to me with his grinning face making me fearful. But eventually I noticed he had forgotten his gun. It made me happy and I burst out laughing loudly.
 
 The output:
 
